@@ -1,71 +1,65 @@
-# 👋 Hola, soy [Tu Nombre]
+#👋 Hola, soy João Manuel Acosta Valencia 
 
-Soy un desarrollador full stack y entusiasta de la ciberseguridad apasionado por construir soluciones innovadoras y aprender nuevas tecnologías. Me encanta resolver problemas complejos y colaborar en proyectos que tengan un impacto positivo.
+Desarrollador Full Stack | Ciberseguridad 
 
-### 📌 Actualmente
-- Trabajando en: [Nombre de la empresa o proyecto] ([enlace](https://ejemplo.com)).
-- Aprendiendo: **Machine Learning** y **DevSecOps**.
+Soy un desarrollador full stack y entusiasta de la ciberseguridad con experiencia en desarrollo web, auditorías de seguridad y administración de servidores. 
+Me apasiona resolver problemas complejos, aprender nuevas tecnologías y construir soluciones innovadoras. 
+📌 Actualmente 
 
----
+    Estudiando : Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá  (Graduación 2025).
+    Aprendiendo : Machine Learning, DevSecOps y Administración de servidores Linux.
+    Última experiencia : Programador Web en Smart Technology Optimized, S.A. 
+        Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
+         
+     
 
-## 🚀 Sobre mí
+🛠️ Tecnologías y herramientas 
+💡 Lenguajes de programación 
 
-- 🔭 Estoy enfocado en desarrollo web y auditorías de seguridad.
-- 🌱 Siempre aprendiendo sobre nuevas tecnologías y mejores prácticas.
-- 👨‍💻 Portafolio: [Enlace a tu portafolio](https://tuportafolio.com).
-- 📝 Blog: [Enlace a tu blog](https://tublog.com).
-- 📞 Contacto: [tuemail@gmail.com](mailto:tuemail@gmail.com).
+    Python, JavaScript, SQL, Bash
+    HTML5, CSS
+     
 
----
+🌐 Desarrollo web y frameworks: 
 
-## 💻 Tecnologías que uso
+    Django,Boostrap,Tailwind CSS
+     
 
-### Lenguajes
-- JavaScript, Python, HTML/CSS, SQL.
+🔐 Ciberseguridad y redes: 
 
-### Frameworks y librerías
-- React, Node.js, Django, Flask.
+    Nmap, Metasploit, Burp Suite, Wireshark
+    FortiGate (Firewalls y políticas de seguridad avanzadas)
+    Seguridad en Linux (SELinux, SSH, SFTP, VPN, TLS/SSL)
+    Gestión de servidores en Azure con CLI
+     
 
-### DevOps y herramientas
-- Docker, Kubernetes, Git, CI/CD.
+🔄 DevOps & Herramientas: 
 
-### Ciberseguridad
-- Nmap, Metasploit, Burp Suite, Wireshark.
+    Docker, Kubernetes, Git/GitHub, CI/CD
+    Administración de servidores Linux (Ubuntu, CentOS, Debian)
+    Automatización con Bash y Python
+     
 
----
+🚀 Proyectos destacados: 
 
-## 📚 Proyectos destacados
+📫 Contacto: 
 
-### 1. **Gestor de Tareas Full Stack**
-- **Descripción**: Aplicación web completa con autenticación de usuarios y API RESTful.
-- **Tecnologías**: React, Node.js, MongoDB.
-- [🔗 Ver proyecto](https://github.com/tuusuario/gestor-tareas)
+    📩 Email: joaoacosta905@hotmail.com 
+    🔗 LinkedIn: www.linkedin.com/in/joao-acosta
+    📝 Blog: tu blog o portafolio  (Actualiza este enlace con tu blog si lo tienes) 
+     
 
-### 2. **Simulador de Red Segura**
-- **Descripción**: Configuración de una red virtual con GNS3 y análisis de vulnerabilidades.
-- **Tecnologías**: GNS3, Wireshark, Nmap.
-- [🔗 Ver proyecto](https://github.com/tuusuario/simulador-red-segura)
+🌟 Inspiración:
 
----
+       Juan 14:6
+        "Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.
 
-## 🏆 Logros y certificaciones
+        Isaías 41:10
+        "No temas, porque yo estoy contigo; no desmayes, 
+        porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, 
+        siempre te sustentaré con la diestra de mi justicia."
+  
+     
 
-- Certificación **CEH (Certified Ethical Hacker)** - 2023.
-- Ganador del Hackathon [Nombre del evento] - 2022.
-- Contribuidor en [Nombre del proyecto open source].
-
----
-
-## 📫 Cómo contactarme
-
-- Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
-
----
-
-## 🌟 Inspiración
-
-> "La mejor forma de predecir el futuro es creándolo." - Peter Drucker
 
 ---
