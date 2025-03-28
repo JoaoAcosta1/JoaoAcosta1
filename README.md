@@ -51,7 +51,7 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
 🌟 Inspiración:
 
        Juan 14:6
-        "Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.
+        "Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí."
 
         Isaías 41:10
         "No temas, porque yo estoy contigo; no desmayes, 
