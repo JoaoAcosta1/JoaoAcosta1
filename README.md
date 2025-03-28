@@ -4,10 +4,10 @@ Desarrollador Full Stack | Ciberseguridad
 
 Soy un desarrollador full stack y entusiasta de la ciberseguridad con experiencia en desarrollo web, auditorías de seguridad y administración de servidores. 
 Me apasiona resolver problemas complejos, aprender nuevas tecnologías y construir soluciones innovadoras. 
-📌 Actualmente 
+
+📌 Actualmente:
 
     Estudiando : Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá  (Graduación 2025).
-    Aprendiendo : Machine Learning, DevSecOps y Administración de servidores Linux.
     Última experiencia : Programador Web en Smart Technology Optimized, S.A. 
         Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
          
@@ -32,7 +32,7 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
     Gestión de servidores en Azure con CLI
      
 
-🔄 DevOps & Herramientas: 
+🔄 Herramientas: 
 
     Docker, Kubernetes, Git/GitHub, CI/CD
     Administración de servidores Linux (Ubuntu, CentOS, Debian)
