@@ -34,7 +34,7 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
 
 🔄 Herramientas: 
 
-    Docker, Kubernetes, Git/GitHub, CI/CD
+    Docker, Git/GitHub
     Administración de servidores Linux (Ubuntu, CentOS, Debian)
     Automatización con Bash y Python
      
