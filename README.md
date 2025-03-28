@@ -12,8 +12,7 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
         Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
          
      
-
-🛠️ Tecnologías y herramientas 
+🛠️ Tecnologías y herramientas:
 💡 Lenguajes de programación 
 
     Python, JavaScript, SQL, Bash
