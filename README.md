@@ -41,11 +41,17 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
 
 🚀 Proyectos destacados: 
 
+       
+        Próximamente... 
+     
+
 📫 Contacto: 
 
     📩 Email: joaoacosta905@hotmail.com 
     🔗 LinkedIn: www.linkedin.com/in/joao-acosta
-    📝 Blog: tu blog o portafolio  (Actualiza este enlace con tu blog si lo tienes) 
+    📝 Blog: tu blog o portafolio  (Actualiza este enlace con tu blog si lo tienes)
+
+Estoy trabajando en proyectos interesantes que pronto compartiré aquí. ¡Mantente atento!
      
 
 🌟 Inspiración:
