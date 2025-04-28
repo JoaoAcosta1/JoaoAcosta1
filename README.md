@@ -9,7 +9,7 @@ Me apasiona resolver problemas complejos, aprender nuevas tecnologías y constru
 
     Estudiando : Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá  (Graduación 2025).
     Última experiencia : Programador Web en Smart Technology Optimized, S.A. 
-        Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
+    Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
          
      
 🛠️ Tecnologías y herramientas:
