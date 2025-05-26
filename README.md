@@ -6,11 +6,16 @@ Soy un desarrollador full stack y entusiasta de la ciberseguridad con experienci
 
 ---
 
-### 📌 Actualmente
+📌 Actualmente
+Estudiando: Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá.
 
-- Estudiando: Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá (Graduación 2025).
-- Última experiencia: Programador Web en Smart Technology Optimized, S.A.
-- Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
+Última experiencia:
+
+Programador Web en Smart Technology Optimized, S.A.
+
+Pasantía de 1 mes y 15 días en Acerta seguros, del Grupo Prival.
+
+Desarrollo de páginas web utilizando HTML, CSS, Bootstrap y plantillas dinámicas reutilizables.
 
 ---
 
@@ -45,8 +50,6 @@ Soy un desarrollador full stack y entusiasta de la ciberseguridad con experienci
 - 📩 Email: [joaoacosta905@hotmail.com](mailto:joaoacosta905@hotmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/joao-acosta](https://www.linkedin.com/in/joao-acosta)
 - [![Portafolio próximamente](https://img.shields.io/badge/Portafolio-Próximamente-blue?style=for-the-badge&logo=github)](#)
-
-
 
 ---
 
