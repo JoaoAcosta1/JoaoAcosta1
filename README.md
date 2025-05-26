@@ -44,7 +44,8 @@ Soy un desarrollador full stack y entusiasta de la ciberseguridad con experienci
 
 - 📩 Email: [joaoacosta905@hotmail.com](mailto:joaoacosta905@hotmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/joao-acosta](https://www.linkedin.com/in/joao-acosta)
--[![Portafolio próximamente](https://img.shields.io/badge/Portafolio-Próximamente-blue?style=for-the-badge&logo=github)](#)
+- [![Portafolio próximamente](https://img.shields.io/badge/Portafolio-Próximamente-blue?style=for-the-badge&logo=github)](#)
+
 
 
 ---
